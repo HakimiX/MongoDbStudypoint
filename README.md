@@ -1,2 +1,3 @@
 # MongoDbStudypoint
+Mustafa Hakimi & Kevin Turan
 SYSTEM ANSWERS CAN BE FOUND IN THE MONGODB STUDYPOINT EXERCISE PDF 
